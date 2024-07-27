@@ -2,6 +2,10 @@
 ---
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Mean71's%20GitHub%20👋&animation=twinkling&fontSize=50&fontAlignY=40&fontAlign=50&height=250)
 
+## 🌟 뱃지
+![Mean71's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mean71&theme=merko&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mean71&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🌱 I’m currently learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - 데이터 분석 커리큘럼
@@ -21,9 +25,6 @@
 ## 📫 How to reach me:
 - E-mail : [koreavally@gmail.com]
 - 
-## 🌟 뱃지
-![Mean71's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mean71&theme=merko&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mean71&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎯 목표
 - 앞으로 를 이루기 위해 노력하고 있습니다.
