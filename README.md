@@ -4,7 +4,8 @@
 
 ## 🌱 I’m currently learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- 데이터 분석
+- 데이터 분석 커리큘럼
+
 ## 🔭 I’m currently working on
 
 ## 💼 경력
