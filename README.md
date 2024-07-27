@@ -1,7 +1,6 @@
 # 👋 Hello! I'm Mean71
 ---
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Mean71's%20GitHub%20👋&animation=twinkling&fontSize=45&fontAlignY=40&fontAlign=50&height=250)
-![Header Image](https://your-image-url.com)
 
 ## 🌱 I’m currently learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
