@@ -6,15 +6,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - 데이터 분석 커리큘럼
 
-## 🔭 I’m currently working on
-
-## 💼 경력
-
 ## 🔧 technology stack
-
 
 ## 📈 프로젝트
 - [project 1](link) : 
+
+## 🔭 I’m currently working on
+
+## 💼 경력
 
 ## 💬 Ask me about
 -
