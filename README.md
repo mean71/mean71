@@ -1,4 +1,12 @@
 ## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Mean71's%20GitHub%20👋&animation=twinkling&fontSize=45&fontAlignY=40&fontAlign=50&height=250)
+
+
+
+![Mean71's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mean71&theme=merko&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mean71&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **mean71/mean71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
