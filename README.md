@@ -20,22 +20,6 @@
 ## 🌱 I’m currently learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - 데이터 분석 커리큘럼
-<!-- BLOG-POST-LIST:START -->
-- [Post Title 1](https://yourblog.com/post1)
-- [Post Title 2](https://yourblog.com/post2)
-<!-- BLOG-POST-LIST:END -->
-
-<!-- BLOG-POST-LIST:END -->
-``
-
-<!-- BLOG-POST-LIST:END -->
-
-<!-- BLOG-POST-LIST:END
-
-<!-- BLOG-POST-LIST:
-
-<!-
-- 
 
 ## 🔧 technology stack
 
