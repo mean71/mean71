@@ -4,8 +4,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Mean71's%20GitHub%20👋&animation=twinkling&fontSize=50&fontAlignY=40&fontAlign=50&height=250)
 
 ## 🌟 뱃지
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F평균71&count_bg=%2355C600&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=새로고침&edge_flat=false"/></a>
-
 ![Mean71's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mean71&theme=merko&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mean71&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mean71&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -45,5 +43,6 @@
 
 ---
 Thank you! 😊
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F평균71&count_bg=%2355C600&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=새로고침&edge_flat=false"/></a>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
