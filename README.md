@@ -2,6 +2,8 @@
 # I'm Mean71
 ---
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Mean71's%20GitHub%20👋&animation=twinkling&fontSize=50&fontAlignY=40&fontAlign=50&height=250)
+## blog
+[깃허브 블로그](mean71.github.io)
 
 ## 🌟 뱃지
 ![Mean71's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mean71&theme=merko&show_icons=true)
