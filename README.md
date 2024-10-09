@@ -8,7 +8,7 @@
 ## PS [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mean)](https://solved.ac/mean)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mean)](https://solved.ac/mean)
 ![Programmers Badge](https://raw.githubusercontent.com/mean71/Programmers_Badge_Generator/main/result/result.svg)
-![Leetcode Stats](https://leetcard.jacoblin.cool/mean71)
+![Leetcode Stats](https://leetcard.jacoblin.cool/mean71?ext=contest)
 
 ## github 정보
 ![Mean71's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mean71&theme=merko&show_icons=true)
@@ -36,7 +36,7 @@
 ## 💬 Ask me about
 - 
  
-## 📫 How to reach me:
+## 📫 How to reach me:/
 - E-mail : [![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail)](mailto:losleepotatool@gmail.com)[losleepotatool@gmail.com]
 - 
 
