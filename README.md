@@ -5,14 +5,14 @@
 ## blog
 [깃허브 블로그](https://mean71.github.io)
 
-## github 정보
+## github log
 ![Mean71's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mean71&theme=merko&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mean71&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mean71&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mean71&theme=ocean-gradient)](https://git.io/streak-stats)
 
-## PS [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mean)](https://solved.ac/mean)
+## PS log [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mean)](https://solved.ac/mean)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mean)](https://solved.ac/mean)  ![Programmers Badge](https://raw.githubusercontent.com/mean71/Programmers_Badge_Generator/main/result/result.svg)
 ![](https://leetcard.jacoblin.cool/mean71?theme=wtf&font=milonga&ext=heatmap)  [![코드트리|실력진단-mean71](https://banner.codetree.ai/v1/banner/mean71)](https://www.codetree.ai/profiles/mean71)
 
