@@ -16,7 +16,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mean)](https://solved.ac/mean)
 
 ![Programmers Badge](https://raw.githubusercontent.com/{mean71}/Programmers_Badge_Generator/main/result/result.svg?cache_buster=1)
-
+![Programmers Badge](https://raw.githubusercontent.com/{mean71}/Programmers_Badge_Generator/main/result/result.svg)
 
 ## 🌱 I’m currently learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
