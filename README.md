@@ -13,7 +13,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mean71&theme=ocean-gradient)](https://git.io/streak-stats)
 
 ## PS log [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mean)](https://solved.ac/mean)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mean)](https://solved.ac/mean)  ![Programmers Badge](https://raw.githubusercontent.com/mean71/Programmers_Badge_Generator/main/result/result.svg)
+백준                                                                         프로그래머스\
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mean)](https://solved.ac/mean) ![Programmers Badge](https://raw.githubusercontent.com/mean71/Programmers_Badge_Generator/main/result/result.svg)\
+리트코드                                                                     코드트리\
 ![](https://leetcard.jacoblin.cool/mean71?theme=wtf&font=milonga&ext=heatmap)  [![코드트리|실력진단-mean71](https://banner.codetree.ai/v1/banner/mean71)](https://www.codetree.ai/profiles/mean71)
 
 ## 🌱 I’m currently learning
