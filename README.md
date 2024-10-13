@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mean71&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mean71&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mean71&theme=ocean-gradient)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mean71&theme=ocean-gradient&hide_border=%EA%B1%B0%EC%A7%93&locale=ko&date_format=%5BY.%5Dn.j&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 ## PS log [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mean)](https://solved.ac/mean)
 백준                                                                         프로그래머스\
