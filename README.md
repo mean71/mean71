@@ -1,7 +1,7 @@
 ---
 # I'm Mean71
 ---
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Mean71's%20GitHub%20👋&animation=twinkling&fontSize=50&fontAlignY=40&fontAlign=50&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20I'm%20Mean71%20👋&animation=twinkling&fontSize=50&fontAlignY=40&fontAlign=50&height=150)
 ## blog
 [깃허브 블로그](https://mean71.github.io)
 
