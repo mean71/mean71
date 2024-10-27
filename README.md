@@ -1,6 +1,7 @@
 <div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Mingi%20Park&fontAlign=70&fontAlignY=40&color=gradient&animation=twinkling)
+[![GitHub](https://img.shields.io/badge/GitHub-Pages-black?style=flat&logo=github&logoColor=white)](https://mean71.github.io)<br>
 ![Mean71's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mean71&theme=merko&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mean71&layout=compact)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mean71&theme=default)
@@ -35,12 +36,6 @@
 
 ---
 
-## 💬 Blog & Mail
-[![GitHub](https://img.shields.io/badge/GitHub-Pages-black?style=flat&logo=github&logoColor=white)](https://mean71.github.io)<br>
-[![Gmail](https://img.shields.io/badge/Gmail-DB4437?style=flat&logo=gmail&logoColor=white)](mailto:losleepotatool@gmail.com)<br>
-
----
-
 ## Problem Solving log
 
 ### 백준 & 프로그래머스
@@ -72,6 +67,12 @@
 • **```Tools & Environment```** :  Docker, Kubernetes<br>
 • **```Etc```** : <br>
 
+
+---
+
+## 💬 Blog & Mail
+[![GitHub](https://img.shields.io/badge/GitHub-Pages-black?style=flat&logo=github&logoColor=white)](https://mean71.github.io)<br>
+[![Gmail](https://img.shields.io/badge/Gmail-DB4437?style=flat&logo=gmail&logoColor=white)](mailto:losleepotatool@gmail.com)<br>
 
 ---
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F평균71&count_bg=%2355C600&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=새로고침&edge_flat=false"/></a>
