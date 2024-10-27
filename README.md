@@ -23,7 +23,9 @@
 </p>
 
 - 리트코드
-![리트코드](https://leetcard.jacoblin.cool/mean71?theme=wtf&font=milonga&ext=heatmap)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mean71?theme=wtf&font=milonga&ext=heatmap" alt="LeetCode 현황" height="200px" />
+</p>
 
 ## 🔧 technology stack
 
