@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20I'm%20Mean71%20👋&animation=twinkling&fontSize=50&fontAlignY=40&fontAlign=50&height=150)
 ## blog
 [![GitHub Blog](https://img.shields.io/badge/GitHub_Blog-Mean71%20Blog-brightgreen?style=flat&logo=github)](https://mean71.github.io)
-## github log
+## git log
 ![Mean71's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mean71&theme=merko&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mean71&layout=compact)
 
