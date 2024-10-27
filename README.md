@@ -23,31 +23,23 @@
 | Markup Languages | | | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) |
 
 # 📈 Projects
-- [project 1](link) : 
+[project 1](link): 
 
 🎓 I'm Currently Learning At 💼
-
+**```SeSAC```** - data AI developer Bootcamp(2024.7.1 ~ 2024.12.2)
+**```Wonkwang University```** - majoring in ```Information and Communication Engineering``` (2017.3.2 ~ 2024.2.20)
 💬 Mail & Blog  
 [![GitHub](https://img.shields.io/badge/GitHub-Pages-black?style=flat&logo=github&logoColor=white)](https://mean71.github.io)  
 [![Gmail](https://img.shields.io/badge/Gmail-DB4437?style=flat&logo=gmail&logoColor=white)](mailto:losleepotatool@gmail.com)
 
 ## 🎯 목표
-- 
 
-## ⚡ Fun fact
-## blog
+---
 
-## git log
+## Problem Solving log
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mean71&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](https://streak-stats.demolab.com?user=mean71&theme=ocean-gradient&hide_border=%EA%B1%B0%EC%A7%93&locale=ko&date_format=%5BY.%5Dn.j&card_width=500&card_height=200)](https://git.io/streak-stats)
-
-
-# Problem Solving log
-
-- 백준 & 프로그래머스
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mean)](https://solved.ac/mean)
+### 백준 & 프로그래머스
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mean)](https://solved.ac/profile/mean)
 [![백준](https://img.shields.io/badge/백준-레포지토리-blue?style=flat&logo=github)](https://github.com/mean71/codingtest/tree/main/%EB%B0%B1%EC%A4%80) 
 [![프로그래머스](https://img.shields.io/badge/프로그래머스-레포지토리-orange?style=flat&logo=github)](https://github.com/mean71/codingtest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)
 <p align="center">
@@ -55,12 +47,23 @@
   <img src="https://raw.githubusercontent.com/mean71/Programmers_Badge_Generator/main/result/result.svg" alt="Programmers Badge" height="160px" />
 </p>
 
-- 리트코드
+### 리트코드
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mean71?theme=wtf&font=milonga&ext=heatmap" alt="LeetCode 현황" height="200px" />
 </p>
 
+---
 
+### git log
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mean71&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mean71&theme=ocean-gradient&hide_border=%EA%B1%B0%EC%A7%93&locale=ko&date_format=%5BY.%5Dn.j&card_width=500&card_height=200)](https://git.io/streak-stats)
+
+---
+
+### 🔭   I'm Interested In
+• **```Data & AI```** : Data Pipeline, Multi Modal, LLM, Model Serving and Deploy<br>
+• **```Web Backend```** : Spring, FastAPI<br>
+• **```Etc```** :  Docker, Kubernetes<br>
 
 
 ---
