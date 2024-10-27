@@ -1,11 +1,44 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mean71&theme=default)
+<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20I'm%20Mean71%20👋&animation=twinkling&fontSize=50&fontAlignY=40&fontAlign=50&height=150)
-## blog
-[![GitHub Blog](https://img.shields.io/badge/GitHub_Blog-Mean71%20Blog-brightgreen?style=flat&logo=github)](https://mean71.github.io)
-## git log
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Mingi%20Park&fontAlign=70&fontAlignY=40&color=gradient&animation=twinkling)
+---
 ![Mean71's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mean71&theme=merko&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mean71&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mean71&theme=default)
+
+
+
+
+# 🔧 Technology Stack
+## Technical Skills
+
+| Category | 주요 기술 | 초급 | 입문 |
+|----------|-----------|------|------|
+| Programming Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) | |
+| Data Analysis & Visualization | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) | ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat) | |
+| Machine Learning & AI | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | |
+| Web Scraping & Automation | | ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat) | |
+| Database | | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | |
+| Development Tools & Environment | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | |
+| Markup Languages | | | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) |
+
+# 📈 Projects
+- [project 1](link) : 
+
+🎓 I'm Currently Learning At 💼
+
+💬 Mail & Blog  
+[![GitHub](https://img.shields.io/badge/GitHub-Pages-black?style=flat&logo=github&logoColor=white)](https://mean71.github.io)  
+[![Gmail](https://img.shields.io/badge/Gmail-DB4437?style=flat&logo=gmail&logoColor=white)](mailto:losleepotatool@gmail.com)
+
+## 🎯 목표
+- 
+
+## ⚡ Fun fact
+## blog
+
+## git log
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mean71&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://streak-stats.demolab.com?user=mean71&theme=ocean-gradient&hide_border=%EA%B1%B0%EC%A7%93&locale=ko&date_format=%5BY.%5Dn.j&card_width=500&card_height=200)](https://git.io/streak-stats)
@@ -27,30 +60,10 @@
   <img src="https://leetcard.jacoblin.cool/mean71?theme=wtf&font=milonga&ext=heatmap" alt="LeetCode 현황" height="200px" />
 </p>
 
-## 🔧 technology stack
 
-## 📈 프로젝트
-- [project 1](link) : 
-
-## 🔭 I’m currently working on
-
-## 💼 경력
-
-## 💬 Ask me about
-- 
- 
-## 📫 How to reach me:/
-- E-mail : [![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail)](mailto:losleepotatool@gmail.com)
-- 
-
-## 🎯 목표
-- 
-
-## ⚡ Fun fact
 
 
 ---
-Thank you! 😊
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F평균71&count_bg=%2355C600&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=새로고침&edge_flat=false"/></a>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
