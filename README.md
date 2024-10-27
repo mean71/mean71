@@ -31,13 +31,13 @@
 
 ---
 
-## 💬 Mail & Blog
-[![GitHub](https://img.shields.io/badge/GitHub-Pages-black?style=flat&logo=github&logoColor=white)](https://mean71.github.io)<br>
-[![Gmail](https://img.shields.io/badge/Gmail-DB4437?style=flat&logo=gmail&logoColor=white)](mailto:losleepotatool@gmail.com)<br>
+## 🎯 목표
 
 ---
 
-## 🎯 목표
+## 💬 Blog & Mail
+[![GitHub](https://img.shields.io/badge/GitHub-Pages-black?style=flat&logo=github&logoColor=white)](https://mean71.github.io)<br>
+[![Gmail](https://img.shields.io/badge/Gmail-DB4437?style=flat&logo=gmail&logoColor=white)](mailto:losleepotatool@gmail.com)<br>
 
 ---
 
@@ -66,7 +66,7 @@
 ---
 
 ## 🔭 I'm Interested In
-• **```Languages```** : C++, Java, JS
+• **```Languages```** : C++, Java, JS<br>
 • **```Data & AI```** : Data Pipeline, Multi Modal, LLM, Model Serving and Deploy<br>
 • **```Web Backend```** : Spring, FastAPI<br>
 • **```Tools & Environment```** :  Docker, Kubernetes<br>
