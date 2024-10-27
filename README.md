@@ -38,7 +38,7 @@
 - 
  
 ## 📫 How to reach me:/
-- E-mail : [![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail)](mailto:losleepotatool@gmail.com)[losleepotatool@gmail.com]
+- E-mail : [![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail)](mailto:losleepotatool@gmail.com)
 - 
 
 ## 🎯 목표
