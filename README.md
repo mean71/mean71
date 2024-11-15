@@ -59,7 +59,7 @@
 
 ---
 
-## 🔭 I'm Interested In
+## 🔭 Now Interested In
 • **```Languages```** : C++, Java, JS<br>
 • **```Data & AI```** : Data Pipeline, Multi Modal, LLM, Model Serving and Deploy<br>
 • **```Web Backend```** : Spring, FastAPI<br>
