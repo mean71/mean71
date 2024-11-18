@@ -21,7 +21,7 @@
 ---
 
 ## 📈 Projects
-[project 1](link): (24.11.7 ~ 24.11.28)<br>
+[현재 팀 프로젝트 진행중...](링크): (24.11.7 ~ 24.11.28)<br>
 
 
 ---
@@ -61,17 +61,17 @@
 ---
 
 ## 🔭 Now Interested In
-• **```Languages```** : C++, Java, JS<br>
-• **```Data & AI```** : Data Pipeline, Multi Modal, LLM, Model Serving and Deploy<br>
-• **```Web Backend```** : Spring, FastAPI<br>
-• **```Tools & Environment```** :  Docker, Kubernetes<br>
+• **```Languages```** : (SQL), Java, JS, Kotlin(Dart), (HTML/CSS)<br>
+• **```Data & AI```** : MLops, Data Pipeline, Multi Modal, LLM, Model Serving and Deploy<br>
+• **```Web Backend```** : streamlit, Django, Flask, FastAPI, Spring<br>
+• **```Tools & Environment```** : Docker, Kubernetes<br>
 • **```Etc```** : <br>
 
 
 ---
 
 ## 💬 Blog & Mail
-[![GitHub](https://img.shields.io/badge/GitHub-Pages-black?style=flat&logo=github&logoColor=white)](https://mean71.github.io)<br>
+[![GitHub](https://img.shields.io/badge/GitHub-Pages-black?style=flat&logo=github&logoColor=white)](https://mean71.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-DB4437?style=flat&logo=gmail&logoColor=white)](mailto:losleepotatool@gmail.com)<br>
 
 ---
