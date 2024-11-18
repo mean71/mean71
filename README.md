@@ -21,12 +21,13 @@
 ---
 
 ## 📈 Projects
-[project 1](link): 
+[project 1](link): (24.11.7 ~ 24.11.28)<br>
+
 
 ---
 
 ##🎓 I'm Currently Learning At 💼
-**```SeSAC```** - data AI developer Bootcamp(2024.7.1 ~ 2024.12.2)<br>
+**```SeSAC```** - data AI developer Bootcamp(24.7.1 ~ 24.12.2)<br>
 **```Wonkwang University```** - majoring in ```Information and Communication Engineering``` (2017.3.2 ~ 2024.2.20)<br>
 
 ---
