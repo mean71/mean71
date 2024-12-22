@@ -23,7 +23,7 @@
 ---
 
 ## 📈 Projects
-[도로 이상객체(포트홀) 탐지 시스템](https://github.com/Chang-Hyeon-Park/SeSACMuchim): (24.11.7 ~ 24.11.28)<br>
+[YOLOv8모델 기반 도로 이상객체(포트홀) 탐지 시스템](https://github.com/Chang-Hyeon-Park/SeSACMuchim): (24.11.7 ~ 24.11.28)<br>
 
 
 ---
