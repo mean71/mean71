@@ -67,7 +67,7 @@
 
 ## 🔭 Now Interested In
 • **```Languages```** : SQL, (HTML/CSS), JS, Java, Kotlin, Flutter(Dart) <br>
-• **```Data & AI```** : MLops, Data Pipeline, Multi Modal, Model Serving & Deploy, LLM <br>
+• **```Data & AI```** : MLops, Data Pipeline, Multi Modal, Serving & Deploy, LLM <br>
 • **```Web Backend```** : streamlit, Django, FastAPI, Spring<br>
 • **```Tools & Environment```** : Docker, AWS, Linux, Kubernetes<br>
 • **```Etc```** : <br>
